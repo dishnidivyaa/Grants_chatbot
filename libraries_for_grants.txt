@@ -1,0 +1,10 @@
+streamlit as st
+ json
+snowflake
+re
+ pandas 
+snowflake.snowpark.context import get_active_session
+collections import Counter
+uuid
+snowflake-connector-python
+streamlit
